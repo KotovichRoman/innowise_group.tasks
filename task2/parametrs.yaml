@@ -1,9 +1,0 @@
-url: https://www.petsonic.com/farmacia-para-gatos/
-file_name: file.csv
-all_products: //input[@name = "n"]/@value
-products_per_page: //a[@class = "product-name"]
-page_url: //div[@class = "product-desc display_sd"]//@href
-product_name: //h1[@class = "product_main_name"]
-product_image: //img[@id = "bigpic"]/@src
-product_weight_variation: //span[@class = "radio_label"]
-price_per_weight: //span[@class = "price_comb"]
